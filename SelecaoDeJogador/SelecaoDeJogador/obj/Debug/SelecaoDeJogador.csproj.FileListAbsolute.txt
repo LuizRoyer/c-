@@ -1,0 +1,11 @@
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\bin\Debug\SelecaoDeJogador.exe.config
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\bin\Debug\SelecaoDeJogador.exe
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\bin\Debug\SelecaoDeJogador.pdb
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\obj\Debug\SelecaoDeJogador.Properties.Resources.resources
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\obj\Debug\SelecaoDeJogador.csproj.GenerateResource.Cache
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\obj\Debug\SelecaoDeJogador.csproj.CoreCompileInputs.cache
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\obj\Debug\SelecaoDeJogador.exe
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\obj\Debug\SelecaoDeJogador.pdb
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\obj\Debug\SelecaoDeJogador.TelaPrincipal.resources
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\obj\Debug\SelecaoDeJogador.NovoJogador.resources
+C:\Users\k27287\source\repos\SelecaoDeJogador\SelecaoDeJogador\obj\Debug\SelecaoDeJogador.TabelaJogador.resources

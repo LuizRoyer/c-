@@ -1,0 +1,10 @@
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\bin\Debug\CalculadoraForrms.exe.config
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\bin\Debug\CalculadoraForrms.exe
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\bin\Debug\CalculadoraForrms.pdb
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\obj\Debug\CalculadoraForrms.csprojResolveAssemblyReference.cache
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\obj\Debug\CalculadoraForrms.Form1.resources
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\obj\Debug\CalculadoraForrms.Properties.Resources.resources
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\obj\Debug\CalculadoraForrms.csproj.GenerateResource.Cache
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\obj\Debug\CalculadoraForrms.csproj.CoreCompileInputs.cache
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\obj\Debug\CalculadoraForrms.exe
+C:\Users\k27287\source\repos\TestMetodo\CalculadoraForrms\obj\Debug\CalculadoraForrms.pdb
